@@ -1,5 +1,5 @@
 # project
-#The project contain the information of "Centers for Medicare and Medicaid Services(CMS) Hospital Rating"
+# The project contain the information of "Centers for Medicare and Medicaid Services(CMS) Hospital Rating"
 # Fun Facts:
 ## The probability of picking a 5-star rating hospital in the USA that is from Texas  is 0.35%.
 ## The probability of picking a 1-star rating hospital in the USA that is from New York  is 1.1%.
